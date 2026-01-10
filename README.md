@@ -25,3 +25,9 @@ This repo documents a Jira configuration lab demonstrating:
 - Task + Subtasks: IOL-9, IOL-10, IOL-11
 - Bug: IOL-12
 - Service Requests (simulated via label): IOL-13, IOL-14
+
+## Evidence (Screenshots)
+- `screenshots/02-kanban-wip-swimlanes.png` — Kanban board with WIP limit + swimlanes
+- `screenshots/03-kanban-quick-filter.png` — Quick filter proof (In Progress)
+- `screenshots/04-scrum-active-sprint.png` — Scrum board sprint activity
+- `screenshots/05-burndown.png` — Sprint burndown report
