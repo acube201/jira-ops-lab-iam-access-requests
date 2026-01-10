@@ -29,13 +29,13 @@ This repo documents a Jira configuration lab demonstrating:
 ## Evidence (Screenshots)
 
 ### Kanban: WIP + Swimlanes
-![Kanban WIP + Swimlanes](screenshots/02-kanban-wip-swimlanes.png)
+![Kanban WIP + Swimlanes](docs/jql/screenshots/02-kanban-wip-swimlanes.png)
 
 ### Kanban: Quick Filter (In Progress)
-![Kanban Quick Filter](screenshots/03-kanban-quick-filter.png)
+![Kanban Quick Filter](docs/jql/screenshots/03-kanban-quick-filter.png)
 
 ### Scrum: Active Sprint
-![Scrum Active Sprint](screenshots/04-scrum-active-sprint.png)
+![Scrum Active Sprint](docs/jql/screenshots/04-scrum-active-sprint.png)
 
 ### Scrum: Burndown Report
-![Burndown](screenshots/05-burndown.png)
+![Burndown](docs/jql/screenshots/05-burndown.png)
