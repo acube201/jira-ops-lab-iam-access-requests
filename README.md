@@ -8,8 +8,8 @@ This repo documents a Jira configuration lab demonstrating:
 - Integration patterns (GitHub, Slack/Teams, ServiceNow handoffs – conceptual)
 
 ## Evidence (Screenshots)
-- Kanban board (WIP limits, swimlanes, quick filters): see `/screenshots/`
-- Scrum sprint activity: see `/screenshots/`
+- Kanban board (WIP limits, swimlanes, quick filters): see `screenshots/02-kanban-wip-swimlanes.png`
+- Scrum sprint activity: see `screenshots/04-scrum-active-sprint.png`
 - Burndown report: `screenshots/05-burndown.png`
 
 ## JQL
